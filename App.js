@@ -5,8 +5,8 @@ import { Button } from 'react-native-elements'
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text style={{ fontSize: 18 }}>Open up App.js to start working on your app!</Text>
-      <Button title='Ha clic' />
+      <Text style={{ fontSize: 18 }}>Open UP App.js to start working on your app!</Text>
+      <Button title='Haz clic' />
     </View>
   );
 }
